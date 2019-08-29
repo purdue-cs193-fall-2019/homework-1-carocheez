@@ -11,12 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Carolyn's First CS193 Homework
 
-- Bulleted
-- List
+- I like the classroom that CS193 is held in
+- I like some of my classmates
+- I like to learn about CS
+
 
 1. Numbered
 2. List
@@ -37,10 +37,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-# Carolyn's First CS193 Homework 
-
-- I like the classroom that CS193 is held in
-- I like some of my classmates
-- I like to learn about CS
 
 
